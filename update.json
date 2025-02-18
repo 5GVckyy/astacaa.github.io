@@ -1,6 +1,7 @@
 {
     "app_status": true,
     "game_version": "1.0.0",
+    "game_url": "https://astacaa.github.io/game/app-game-release.apk",
     "samp_list_url": "https://astacaa.github.io/data/samp_list.json",
     "full_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
     "lite_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json"
