@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "host": "samp.revitalize.id",
+            "port": "7777"
+        },
+        {
+            "host": "samp.lunarpride.net",
+            "port": "7777"
+        }
+    ]
+}
