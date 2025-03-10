@@ -21,8 +21,12 @@
             "port": "7777"
         },
         {
-            "host": "47.237.109.11",
-            "port": "2715"
+            "host": "play.swdm.my.id",
+            "port": 7777,
+        },
+        {
+            "host": "play.solvine.live",
+            "port": "7777"
         }
     ]
 }
