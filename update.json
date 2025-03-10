@@ -9,6 +9,7 @@
     },
     "arizona": {
         "app_status": true,
+        "app_beta_status": false,
         "game_version": "1.0.0",
         "game_url": "https://astacaa.github.io/game/arizona.apk",
         "samp_list_url": "https://astacaa.github.io/data/samp_list.json",
